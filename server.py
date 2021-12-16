@@ -22,10 +22,10 @@ global lightLevel
 lightLevel = 0
 
 # Enter your deviceIds in the array below
-devices = ["8006158A6DDE90637B70339BB2C022411E44150D"]
+devices = [""]
 
 # Enter you account token below here
-token = "25f45255-ATpg2n5PNJJfUCNExRszchd"
+token = ""
 
 def setup_mqtt():
     print("Starting MQTT subscription...")
