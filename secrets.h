@@ -1,7 +1,7 @@
 using namespace std;
 
-const char *SSID = "Spinner Place";
-const char *PASS = "letusdare";
+const char *SSID = "";
+const char *PASS = "";
 
 // MQTT settings
 const string ID = "kasa"; // Put something different
